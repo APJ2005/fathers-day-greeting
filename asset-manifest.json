@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Sreechran/fathers-day-greeting/static/css/main.3c4a4201.css",
+    "main.js": "/Sreechran/fathers-day-greeting/static/js/main.de32e541.js",
+    "static/js/453.b0d4a33f.chunk.js": "/Sreechran/fathers-day-greeting/static/js/453.b0d4a33f.chunk.js",
+    "static/media/nanna_nuvvu_na_pranam.mp3": "/Sreechran/fathers-day-greeting/static/media/nanna_nuvvu_na_pranam.3ecdecf8fd5fe74142e3.mp3",
+    "static/media/OIP.jpg": "/Sreechran/fathers-day-greeting/static/media/OIP.307712adacfe0c85adc4.jpg",
+    "index.html": "/Sreechran/fathers-day-greeting/index.html",
+    "main.3c4a4201.css.map": "/Sreechran/fathers-day-greeting/static/css/main.3c4a4201.css.map",
+    "main.de32e541.js.map": "/Sreechran/fathers-day-greeting/static/js/main.de32e541.js.map",
+    "453.b0d4a33f.chunk.js.map": "/Sreechran/fathers-day-greeting/static/js/453.b0d4a33f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c4a4201.css",
+    "static/js/main.de32e541.js"
+  ]
+}
